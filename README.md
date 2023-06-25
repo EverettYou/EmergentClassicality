@@ -18,7 +18,7 @@ To tackle this problem, we sought the assistance of a powerful ally - Artificial
 
 ## Transformer Architecture
 
-We used a transformer-based language model to simulate the 'classical shadows' of quantum states. For this reason, we call our model **Classical Shadow Transformer (CST)** (see the source code here: [CST.py](CST.py)). The transformer model is an architecture primarily used in the field of deep learning for handling sequential data. It's known for its scalability and ability to manage long-term dependencies, making it ideal for modeling intricate correlations in classical shadow data for our project. The transformer model processes these classical shadows of Schrödinger’s cat on a classical computer, aiming to decode the cat's quantum nature. We evaluate the model's ability to 'understand' and reproduce the quantum coherence encoded in the classical shadow data.
+We used a transformer-based language model to simulate the 'classical shadows' of quantum states. For this reason, we call our model **Classical Shadow Transformer (CST)** (source code: [CST.py](CST.py)). The transformer model is an architecture primarily used in the field of deep learning for handling sequential data. It's known for its scalability and ability to manage long-term dependencies, making it ideal for modeling intricate correlations in classical shadow data for our project. The transformer model processes these classical shadows of Schrödinger’s cat on a classical computer, aiming to decode the cat's quantum nature. We evaluate the model's ability to 'understand' and reproduce the quantum coherence encoded in the classical shadow data.
 
 <img src="img/CST.png" alt="img/CST.png" width="384"/>
 
