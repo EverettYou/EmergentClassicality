@@ -2,6 +2,8 @@
 
 This GitHub repository hosts the source code and data associated with the research work [arXiv: xxxx.xxxxx].
 
+The work was presented at Perimeter Institute, whose video recording can be viewed [here](https://pirsa.org/23060044).
+
 ## Overview
 
 The objective of this research is to investigate to what extent a classical intelligent agent can decipher the quantum nature of a many-body quantum system from its surrounding environmental noises. The research is motivated by an enduring conundrum in physics -- the quantum-to-classical transition. Our research leveraged the power of artificial intelligence to provide a fresh perspective on this age-old question. We invite an artificial intelligence agent to observe one of the most paradoxical phenomena in quantum mechanics - Schrödinger’s Cat and study the intelligence agent's understanding of the classical or quantum reality of the cat.
