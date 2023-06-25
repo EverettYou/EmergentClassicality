@@ -24,7 +24,7 @@ We used a transformer-based language model to simulate the 'classical shadows' o
 
 The architecture consists of an encoder that processes the input (sequence of local observables) and a decoder that produces the output (sequence of measurement outcomes). Each consists of self-attention layers, which allow the model to focus on different parts of the input sequence when producing an output. A key variation is that we borrow the idea from $\beta$-VAE to introduce a sampling layer in the latent space, which enables us to control the information bottleneck of the transformer model.
 
-We investigate classical shadow transformers with different information bottlenecks and leaning from classical shadows of different system sizes. We trained our model and collect data in [data_collect.ipynb](data_collect.ipynb) and analyze the data in [data_analyze.nb](data_analyze.nb). Our trained models are hosted in the [model](.\model) folder and the generated data files are hosted in the [data](.\data) folder.
+We investigate classical shadow transformers with different information bottlenecks and leaning from classical shadows of different system sizes. We trained our model and collect data in [data_collect.ipynb](data_collect.ipynb) and analyze the data in [data_analyze.nb](data_analyze.nb). Our trained models are hosted in the [model](model) folder and the generated data files are hosted in the [data](data) folder.
 
 ## License
 
