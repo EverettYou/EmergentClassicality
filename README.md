@@ -1,6 +1,6 @@
 # Emergent Classicality from Information Bottleneck
 
-This GitHub repository hosts the source code and data associated with the research work [arXiv: xxxx.xxxxx]. The work was presented on the conference Machine Learning for Quantum Many-Body Systems (June 2023) at Perimeter Institute ([video recording](https://pirsa.org/23060044)).
+This GitHub repository hosts the source code and data associated with the research work [arXiv: 2306.14838](https://arxiv.org/abs/2306.14838). The work was presented on the conference Machine Learning for Quantum Many-Body Systems (June 2023) at Perimeter Institute ([video recording](https://pirsa.org/23060044)).
 
 ## Overview
 
