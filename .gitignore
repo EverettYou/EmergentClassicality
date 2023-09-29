@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 runs/.DS_Store
 .DS_Store
+.env
